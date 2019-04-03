@@ -555,7 +555,7 @@ Text Label 7450 3450 2    50   ~ 0
 A16
 Text Label 7450 3350 2    50   ~ 0
 A20
-Text Label 7450 2950 2    50   ~ 0
+Text Label 7450 2850 2    50   ~ 0
 A21
 Text Label 8500 5600 0    50   ~ 0
 D0
@@ -611,15 +611,15 @@ Wire Wire Line
 Connection ~ 6300 6250
 Wire Wire Line
 	7300 3850 7450 3850
-Text Label 7450 2850 2    50   ~ 0
+Text Label 7450 2950 2    50   ~ 0
 E
-Text Label 8450 2850 0    50   ~ 0
+Text Label 8450 2950 0    50   ~ 0
 me
 Text Label 8450 3050 0    50   ~ 0
 ma0
 Text Label 8450 3150 0    50   ~ 0
 ma1
-Text Label 8450 2950 0    50   ~ 0
+Text Label 8450 2850 0    50   ~ 0
 ma21
 Text Label 8450 3350 0    50   ~ 0
 ma20

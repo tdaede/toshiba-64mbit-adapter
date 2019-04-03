@@ -45,7 +45,7 @@ Text Label 2900 2300 2    50   ~ 10
 A1
 Text Label 2900 2400 2    50   ~ 10
 A0
-Text Label 2900 2500 2    50   ~ 10
+Text Label 2900 2700 2    50   ~ 10
 E
 Text Label 2900 2800 2    50   ~ 10
 D0
@@ -242,7 +242,7 @@ F 3 "" H 9650 5600 50  0001 C CNN
 	1    9650 5600
 	1    0    0    -1  
 $EndComp
-Text Label 2900 2700 2    50   ~ 0
+Text Label 2900 2500 2    50   ~ 0
 A21
 $Comp
 L power:GND #PWR0110
