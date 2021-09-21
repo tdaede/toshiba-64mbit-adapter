@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name adapter)(type Legacy)(uri ${KIPRJMOD}/adapter.lib)(options "")(descr ""))
+  (lib (name toshiba-64mbit-adapter-rescue)(type Legacy)(uri ${KIPRJMOD}/toshiba-64mbit-adapter-rescue.lib)(options "")(descr ""))
 )
